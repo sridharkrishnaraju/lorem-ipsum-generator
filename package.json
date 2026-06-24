@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/lorem-ipsum",
+  "version": "1.0.0",
+  "description": "Classic lorem ipsum placeholder text generator by paragraphs, sentences or words. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "lorem-ipsum.js",
+  "unpkg": "lorem-ipsum.js",
+  "files": ["lorem-ipsum.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "lorem ipsum generator", "placeholder text", "dummy text generator"],
+  "homepage": "https://sgbp.tech/tools/lorem-ipsum-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}

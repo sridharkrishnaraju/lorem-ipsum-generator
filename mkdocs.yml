@@ -1,0 +1,8 @@
+site_name: Lorem Ipsum Generator
+site_description: Classic lorem ipsum placeholder text generator by paragraphs, sentences or words.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
